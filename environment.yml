@@ -1,0 +1,9 @@
+dependencies:
+  - bokeh
+  - nbserverproxy
+  - pandas
+  - numpy
+  - matplotlib
+  - datetime
+  - ipywidgets
+  - holoviews
