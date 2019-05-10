@@ -4,6 +4,5 @@ dependencies:
   - pandas
   - numpy
   - matplotlib
-  - datetime
   - ipywidgets
   - holoviews
